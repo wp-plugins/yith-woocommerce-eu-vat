@@ -2,12 +2,12 @@
 Contributors: yithemes
 Tags: digital vat, digital goods, eu tax, eu vat, euvat, iva, moss, eu moss, european tax, vat compliance, eu vat compliance, woocommerce, e-commerce, e commerce, tax, order tax, order vat, eu vat compliance, european vat, vat moss, vat rates, vatmoss, taxes, VAT, vatmoss, ue, commerce, ecommerce
 Requires at least: 3.5.1
-Tested up to: 4.1
+Tested up to: 4.1.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Manage correctly your customers from all around the world with their own tax laws about digital goods.
+Manage correctly your European customers with their own tax laws about digital goods.
 
 == Description ==
 
@@ -17,11 +17,15 @@ Therefore, whether your users are direct consumers or businesses, YITH WooCommer
 
 = Main features =
 
+* Taxes are applied based on the customer location.
+* Pre built EU Tax rates list.
+* Choose the taxes to pay with a MOSS report filtered by nation and time
 * Choose to prevent purchases from EU customers.
 * In case of you want to prevent purchases from EU customers, choose to show customized messages on cart and on checkout page.
 * Store automatically the EU taxes paid by the customer.
-* Choose the taxes to pay with a MOSS report filtered by nation and time
 * Consult quickly a direct report about the taxes to pay by nation and period of time.
+
+For a more detailed list of options and features of the plugin, please look at the [official documentation](http://yithemes.com/docs-plugins/yith-woocommerce-eu-vat/ "Yith WooCommerce EU VAT official documentation").
 
 Discover all the features of the plugin and install it in your theme: the result will be extremely satisfying.
 
