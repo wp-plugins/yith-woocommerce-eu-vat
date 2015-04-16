@@ -59,7 +59,7 @@ $general_settings = apply_filters( 'yith_ywev_general_settings', $general_settin
 
 $options['general'] = array();
 
-if ( ! defined( 'YITH_YWEV_PREMIUM' ) && defined( 'YITH_YWEV_PREMIUM_TRIAL' ) ) {
+if ( ! defined( 'YITH_YWEV_PREMIUM' ) ) {
 	$intro_tab = array(
 		'section_general_settings_videobox' => array(
 			'name'    => __( 'Upgrade to the PREMIUM VERSION', 'ywev' ),
@@ -69,7 +69,7 @@ if ( ! defined( 'YITH_YWEV_PREMIUM' ) && defined( 'YITH_YWEV_PREMIUM_TRIAL' ) ) 
 				'title_first_column'        => __( 'Discover The Advanced Features', 'ywev' ),
 				'description_first_column'  => __( 'Upgrade to the PREMIUM VERSION of YITH WOOCOMMERCE EU VAT to benefit from all features!', 'ywev' ),
 				'video'                     => array(
-					'video_id'          => '122436840',
+					'video_id'          => '125126673',
 					'video_image_url'   => YITH_YWEV_ASSETS_IMAGES_URL . 'yith-woocommerce-eu-vat.jpg',
 					'video_description' => __( 'See YITH WooCommerce EU VAT plugin with full premium features in action', 'ywev' ),
 				),

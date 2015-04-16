@@ -3,7 +3,7 @@ Contributors: yithemes
 Tags: digital vat, digital goods, eu tax, eu vat, euvat, iva, moss, eu moss, european tax, vat compliance, eu vat compliance, woocommerce, e-commerce, e commerce, tax, order tax, order vat, eu vat compliance, european vat, vat moss, vat rates, vatmoss, taxes, VAT, vatmoss, ue, commerce, ecommerce
 Requires at least: 3.5.1
 Tested up to: 4.1.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -52,6 +52,10 @@ YITH WooCommerce EU VAT will add a new tab called "EU VAT" in "YIT Plugins" menu
 8. Print a report with details about VAT taxes paid by EU customers.
 
 == Changelog ==
+
+= 1.0.1 =
+
+Added : videobox information.
 
 = 1.0.0 =
 

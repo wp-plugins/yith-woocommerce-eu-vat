@@ -126,7 +126,7 @@ if ( ! class_exists( 'YITH_YWEV_Plugin_FW_Loader' ) ) {
 			$admin_tabs['general'] = __( 'General', 'ywev' );
 			$admin_tabs['tax'] = __( 'Tax', 'ywev' );
 
-			if ( ! defined( 'YITH_YWEV_PREMIUM' ) && defined( 'YITH_YWEV_PREMIUM_TRIAL' )  ) {
+			if ( ! defined( 'YITH_YWEV_PREMIUM' )  ) {
 				$admin_tabs['premium-landing'] = __( 'Premium Version', 'ywev' );
 			}
 
