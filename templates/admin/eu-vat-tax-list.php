@@ -21,7 +21,7 @@ $eu_vat_tax_used_list = get_option( 'ywev_eu_vat_tax_list', array() );
 
 	<td class="forminp plugin-option">
 		<div class="ywev-import-tax-rates">
-			<a href="<?php echo add_query_arg( "install-tax-rates", "standard" ); ?>"
+			<a href="<?php echo esc_url(add_query_arg( "install-tax-rates", "standard" )); ?>"
 			   class="button"><?php _e( "Import standard tax rates", "ywev" ); ?></a>
 		</div>
 		<div class="tax-class-table">

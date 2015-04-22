@@ -82,7 +82,7 @@ if ( ! class_exists( 'YITH_WooCommerce_EU_VAT' ) ) {
 			} elseif ( "reduced" == $_GET["install-tax-rates"] ) {
 				//  import reduced tax rates
 			}
-			wp_redirect( remove_query_arg( "install-tax-rates" ) );
+			wp_redirect( esc_url_raw( remove_query_arg( "install-tax-rates" ) ) );
 
 		}
 
