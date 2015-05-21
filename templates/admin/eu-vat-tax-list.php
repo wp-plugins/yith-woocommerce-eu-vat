@@ -3,7 +3,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-$tax_classes = WC_Tax::get_tax_classes();
+$tax_classes = ywev_get_tax_classes();
 foreach ( $tax_classes as &$class ) {
 	$class = sanitize_title( $class );
 }

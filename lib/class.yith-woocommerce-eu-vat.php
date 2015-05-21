@@ -289,7 +289,7 @@ if ( ! class_exists( 'YITH_WooCommerce_EU_VAT' ) ) {
 
 			include_once( YITH_YWEV_TEMPLATE_DIR . '/report/class.yith-ywev-report-eu-vat-taxes.php' );
 
-			$report = new YITH_YWEV_Report_EU_VAT_Taxes();
+			$report = new YWAR_Review_Report();
 			$report->output_report();
 		}
 	}

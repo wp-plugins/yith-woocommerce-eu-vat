@@ -1,7 +1,7 @@
 <?php
 
 /**
- * YITH_YWEV_Report_EU_VAT_Taxes
+ * YWAR_Review_Report
  *
  * @author  Your Inspiration Themes
  * @package YITH WooCommerce EU VAT

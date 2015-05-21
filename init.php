@@ -3,7 +3,7 @@
  * Plugin Name: YITH WooCommerce EU VAT
  * Plugin URI: http://yithemes.com/themes/plugins/yith-woocommerce-eu-vat/
  * Description: YITH WooCommerce EU VAT allows you to be fully compliance with EU VAT laws, storing chceckout data and filling the EU VAT MOSS report for digital goods.
- * Version: 1.1.0
+ * Version: 1.2.0
  * Author: Yithemes
  * Author URI: http://yithemes.com/
  * Text Domain: ywev
@@ -11,7 +11,7 @@
  *
  * @author Your Inspiration Themes
  * @package YITH WooCommerce EU VAT
- * @version 1.1.0
+ * @version 1.2.0
  */
 /*  Copyright 2013-2015  Your Inspiration Themes  (email : plugins@yithemes.com)
 
@@ -67,7 +67,7 @@ if ( ! defined( 'YITH_YWEV_FREE_INIT' ) ) {
 }
 
 if ( ! defined( 'YITH_YWEV_VERSION' ) ) {
-	define( 'YITH_YWEV_VERSION', '1.1.0' );
+	define( 'YITH_YWEV_VERSION', '1.2.0' );
 }
 
 if ( ! defined( 'YITH_YWEV_FILE' ) ) {

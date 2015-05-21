@@ -1,7 +1,8 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: YITH WooCommerce Order Tracking\n"
-"POT-Creation-Date: 2015-04-22 12:59+0100\n"
+"POT-Creation-Date: 2015-05-21 10:38+0100\n"
 "PO-Revision-Date: 2015-04-22 12:59+0100\n"
 "Last-Translator: \n"
 "Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
@@ -9,7 +10,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.5\n"
+"X-Generator: Poedit 1.8\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
 "X-Poedit-KeywordsList: __ ;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
@@ -404,47 +405,47 @@ msgid ""
 "YIT Plugin tab."
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:119
+#: ../plugin-fw/lib/yit-upgrade.php:123
 msgid "There is a new version of %plugin_name% available."
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:120
+#: ../plugin-fw/lib/yit-upgrade.php:124
 msgid "View version %latest% details."
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:121
+#: ../plugin-fw/lib/yit-upgrade.php:125
 msgid "Automatic update is unavailable for this plugin,"
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:122
+#: ../plugin-fw/lib/yit-upgrade.php:126
 msgid ""
 "please <a href=\"%activate_link%\">activate</a> your copy of %plugin_name%."
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:123
+#: ../plugin-fw/lib/yit-upgrade.php:127
 msgid "Update now."
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:226
+#: ../plugin-fw/lib/yit-upgrade.php:230
 msgid "Yithemes Repository"
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:260
+#: ../plugin-fw/lib/yit-upgrade.php:264
 msgid "Invalid URL Provided."
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:273
+#: ../plugin-fw/lib/yit-upgrade.php:277
 msgid "Could not create Temporary file."
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:414
+#: ../plugin-fw/lib/yit-upgrade.php:419
 #, php-format
 msgid ""
 "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox "
 "yit-changelog-button\" title=\"%3$s\">View version %4$s details</a>."
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:416
+#: ../plugin-fw/lib/yit-upgrade.php:421
 #, php-format
 msgid ""
 "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox "
@@ -453,7 +454,7 @@ msgid ""
 "automatic updates.</em>"
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:418
+#: ../plugin-fw/lib/yit-upgrade.php:423
 #, php-format
 msgid ""
 "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox "
@@ -462,7 +463,7 @@ msgid ""
 "title=\"Licence activation\">activate</a> your copy of %6s.</em>"
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:420
+#: ../plugin-fw/lib/yit-upgrade.php:425
 #, php-format
 msgid ""
 "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox "
@@ -470,75 +471,77 @@ msgid ""
 "href=\"%5$s\">update now</a>."
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:493
+#: ../plugin-fw/lib/yit-upgrade.php:498
 msgid "You can't update the plugins for this site."
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:497
+#: ../plugin-fw/lib/yit-upgrade.php:502
 msgid ""
 "You do not have sufficient permissions to update the plugins for this site."
 msgstr ""
 
-#: ../plugin-fw/lib/yit-upgrade.php:504
+#: ../plugin-fw/lib/yit-upgrade.php:509
 msgid "Update Plugin"
 msgstr ""
 
-#: ../plugin-fw/licence/lib/yit-licence.php:156
+#: ../plugin-fw/licence/lib/yit-licence.php:161
 #, php-format
-msgid "%field% field cannot be empty"
+msgctxt "%s = field name"
+msgid "%s field cannot be empty"
 msgstr ""
 
-#: ../plugin-fw/licence/lib/yit-licence.php:157
-msgid "%field_1% and %field_2% fields cannot be empty"
+#: ../plugin-fw/licence/lib/yit-licence.php:162
+#, php-format
+msgid "%s and %s fields cannot be empty"
 msgstr ""
 
-#: ../plugin-fw/licence/lib/yit-licence.php:158
+#: ../plugin-fw/licence/lib/yit-licence.php:163
 msgid "Unable to contact the remote server, please try again later. Thanks!"
 msgstr ""
 
-#: ../plugin-fw/licence/lib/yit-licence.php:537
+#: ../plugin-fw/licence/lib/yit-licence.php:548
 msgid "Invalid Request"
 msgstr ""
 
-#: ../plugin-fw/licence/lib/yit-licence.php:538
+#: ../plugin-fw/licence/lib/yit-licence.php:549
 msgid "Invalid licence key"
 msgstr ""
 
-#: ../plugin-fw/licence/lib/yit-licence.php:539
+#: ../plugin-fw/licence/lib/yit-licence.php:550
 msgid "Software has been deactivated"
 msgstr ""
 
-#: ../plugin-fw/licence/lib/yit-licence.php:540
+#: ../plugin-fw/licence/lib/yit-licence.php:551
 msgid "Maximum number of activations exceeded"
 msgstr ""
 
-#: ../plugin-fw/licence/lib/yit-licence.php:541
+#: ../plugin-fw/licence/lib/yit-licence.php:552
 msgid "Invalid instance ID"
 msgstr ""
 
-#: ../plugin-fw/licence/lib/yit-licence.php:542
+#: ../plugin-fw/licence/lib/yit-licence.php:553
 msgid "Invalid security key"
 msgstr ""
 
-#: ../plugin-fw/licence/lib/yit-licence.php:543
+#: ../plugin-fw/licence/lib/yit-licence.php:554
 msgid "Licence key has expired"
 msgstr ""
 
-#: ../plugin-fw/licence/lib/yit-licence.php:544
+#: ../plugin-fw/licence/lib/yit-licence.php:555
 msgid "Licence key has been banned"
 msgstr ""
 
-#: ../plugin-fw/licence/lib/yit-plugin-licence.php:63
-#: ../plugin-fw/licence/lib/yit-plugin-licence.php:64
-#: ../plugin-fw/licence/lib/yit-theme-licence.php:63
+#: ../plugin-fw/licence/lib/yit-plugin-licence.php:68
+#: ../plugin-fw/licence/lib/yit-plugin-licence.php:69
 #: ../plugin-fw/licence/lib/yit-theme-licence.php:64
-#: ../plugin-fw/licence/lib/yit-theme-licence.php:106
+#: ../plugin-fw/licence/lib/yit-theme-licence.php:65
 #: ../plugin-fw/licence/lib/yit-theme-licence.php:107
+#: ../plugin-fw/licence/lib/yit-theme-licence.php:108
 msgid "Licence Activation"
 msgstr ""
 
-#: ../plugin-fw/licence/lib/yit-theme-licence.php:114
 #: ../plugin-fw/licence/lib/yit-theme-licence.php:115
+#: ../plugin-fw/licence/lib/yit-theme-licence.php:116
 #, php-format
 msgid "%s"
 msgstr ""
@@ -709,7 +712,7 @@ msgstr ""
 
 #: ../plugin-fw/templates/metaboxes/types/contactform.php:77
 #: ../plugin-fw/templates/metaboxes/types/contactform.php:269
-msgid "Title Field"
+msgid "Field Title"
 msgstr ""
 
 #: ../plugin-fw/templates/metaboxes/types/contactform.php:81
@@ -731,7 +734,7 @@ msgstr ""
 
 #: ../plugin-fw/templates/metaboxes/types/contactform.php:95
 #: ../plugin-fw/templates/metaboxes/types/contactform.php:287
-msgid "Type field"
+msgid "Field Type"
 msgstr ""
 
 #: ../plugin-fw/templates/metaboxes/types/contactform.php:103
